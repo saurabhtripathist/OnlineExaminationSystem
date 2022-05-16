@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[category]
+       [dbo].[exam]
+       [dbo].[question]
+       [dbo].[result]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[category] (Table)
+       [dbo].[exam] (Table)
+       [dbo].[question] (Table)
+       [dbo].[result] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[spExamList] (Procedure)
+       [dbo].[spExamListDetails] (Procedure)
+       [dbo].[spSubjecteditfill] (Procedure)
+       [dbo].[spSubjectList] (Procedure)
+       [dbo].[spAddexam] (Procedure)
+       [dbo].[spEditexam] (Procedure)
+       [dbo].[spEditexamfill] (Procedure)
+       [dbo].[spEditquestionfill] (Procedure)
+       [dbo].[spExamquestion] (Procedure)
+       [dbo].[spExamsearchcategory] (Procedure)
+       [dbo].[spgetallquestion] (Procedure)
+       [dbo].[spQuestionsearchexam] (Procedure)
+       [dbo].[spUserresult] (Procedure)
+       [dbo].[spAddquestion] (Procedure)
+       [dbo].[spEditquestion] (Procedure)
+       [dbo].[spResultinsert] (Procedure)

@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[exam]
+       [dbo].[result]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[exam] (Table)
+       [dbo].[result] (Table)
+     Alter
+       [dbo].[spResultinsert] (Procedure)
+     Create
+       [dbo].[spExamsearchcategory] (Procedure)
+       [dbo].[spQuestionsearchexam] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[spAddexam] (Procedure)
+       [dbo].[spEditexam] (Procedure)
+       [dbo].[spEditexamfill] (Procedure)
+       [dbo].[spEditquestionfill] (Procedure)
+       [dbo].[spExamList] (Procedure)
+       [dbo].[spExamListDetails] (Procedure)
+       [dbo].[spExamquestion] (Procedure)
+       [dbo].[spgetallquestion] (Procedure)
+       [dbo].[spUserresult] (Procedure)
+
+If this deployment is executed, changes to [dbo].[exam] might introduce run-time errors in [dbo].[spExamserachcategory].
+If this deployment is executed, changes to [dbo].[exam] might introduce run-time errors in [dbo].[spQuestionserachexam].
+

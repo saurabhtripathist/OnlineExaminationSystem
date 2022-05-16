@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[result].[exam_date] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[result] (Table)
+       [dbo].[spResultinsert] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[spUserresult] (Procedure)
+
+The column [dbo].[result].[exam_date] is being dropped, data loss could occur.
+

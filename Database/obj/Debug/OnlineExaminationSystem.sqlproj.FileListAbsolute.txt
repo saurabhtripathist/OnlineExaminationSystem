@@ -1,0 +1,6 @@
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\OnlineExaminationSystem.dacpac
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\OnlineExaminationSystem.dll
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\OnlineExaminationSystem.pdb
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\OnlineExaminationSystem.sqlproj.AssemblyReference.cache
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\OnlineExaminationSystem.dll
+C:\Users\Saurabh Tripathi\source\repos\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\OnlineExaminationSystem.pdb
