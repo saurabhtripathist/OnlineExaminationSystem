@@ -1,4 +1,4 @@
-# OnlineExaminationSystem
+# OnlineExam4u
 Online Examination System Web Application
 # Specifications
 In this Web Application Admin and Users can register yourself and login your account.
